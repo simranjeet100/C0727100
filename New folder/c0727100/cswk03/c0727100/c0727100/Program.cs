@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace C0727100
+namespace c0727100
 {
     class Program
     {
         static void Main(string[] args)
-        {
-
+        { // bbb
         }
     }
 }
